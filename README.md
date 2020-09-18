@@ -37,4 +37,5 @@ Voici un schéma synoptique de notre réalisation
 
 
 Les codes sont détaillés dans le rapport et devraient être commentés.
+la partie hardware du projet n'est pas présente ici mais ne devrait pas présenter de difficulté à être reproduite ou améliorée.
 
