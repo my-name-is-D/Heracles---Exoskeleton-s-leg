@@ -1,6 +1,7 @@
 # Heracles---Exoskeleton-s-leg
 Exoskeleton's joint leg study - code and realisation information
 
+Text in french, please use: https://translate.google.com/?hl=fr , the result is somewhat convincing.
 
 <div style="text-align:center">
  <p align="center">
@@ -25,5 +26,5 @@ Voici un schéma synoptique de notre réalisation
  </p>
 </div>
 
-
+Les codes sont détaillés dans le rapport et devraient être commentés.
 
