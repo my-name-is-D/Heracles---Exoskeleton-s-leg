@@ -21,7 +21,7 @@ Voici un schéma synoptique de notre réalisation
 
 <div style="text-align:center">
  <p align="center">
-<img src="https://github.com/my-name-is-D/Heracles---Exoskeleton-s-leg/blob/master/images/sch%C3%A9ma%20synoptique.PNG" width="500" >
+<img src="https://github.com/my-name-is-D/Heracles---Exoskeleton-s-leg/blob/master/images/sch%C3%A9ma%20synoptique.PNG" width="800" >
  </p>
 </div>
 
