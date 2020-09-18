@@ -16,7 +16,7 @@ Dans "Rapport Projet 2M03 V2" se trouve la description du projet, de la mécaniq
 Il manquera la conclusion et les axes d'amélioration dans cette version du rapport. 
 
 La jambe de l'exosquelette se plie lorsque le muscle supérieur de la cuisse de l'utlisateur se contracte, et s'ouvre lorsque le muscle de l'utilisateur se détend. La sécurité de l'usager a été assurée par un contrôle hardware et software de position de la jambe. 
-Des boutons de fin de courses ont été posés de façon à parer toute erreur de mesure l'acceleromètre et empêcher le mouvement de continuer.
+Des boutons de fin de courses ont été posés de façon à parer toute erreur de mesure de l'acceleromètre et empêcher le mouvement de continuer.
 <div style="text-align:center">
  <p align="center">
 <img src="https://github.com/my-name-is-D/Heracles---Exoskeleton-s-leg/blob/master/images/s%C3%A9curit%C3%A9.PNG" width="400" >
