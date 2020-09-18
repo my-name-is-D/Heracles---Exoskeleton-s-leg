@@ -26,5 +26,13 @@ Voici un schéma synoptique de notre réalisation
  </p>
 </div>
 
+La sécurité de l'usager a été assurée par un contrôle hardware et software. 
+Des boutons de fin de courses ont été posés de façon à parer toute erreur de mesure l'acceleromètre. 
+<div style="text-align:center">
+ <p align="center">
+<img src="https://github.com/my-name-is-D/Heracles---Exoskeleton-s-leg/blob/master/images/s%C3%A9curit%C3%A9.PNG" width="400" >
+ </p>
+</div>
+
 Les codes sont détaillés dans le rapport et devraient être commentés.
 
